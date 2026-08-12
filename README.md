@@ -15,7 +15,8 @@ Error handling for Ollama connection and request failures
 Lightweight and easy to run locally
 
 **🏗️ Architecture**
-                     ┌─────────────────────┐
+
+                              ┌─────────────────────┐
                      │      User           │
                      │  Coding Question    │
                      └──────────┬──────────┘
@@ -52,7 +53,7 @@ Lightweight and easy to run locally
                      ┌─────────────────────┐
                      │    Gradio UI        │
                      │ Generated Response  │
-                     └─────────────────────┘
+                     └─────────────────────┘ 
 **🛠️ Technologies Used**
 Technology	Purpose
 Python	Application development
