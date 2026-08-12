@@ -16,7 +16,7 @@ Lightweight and easy to run locally
 
 **🏗️ Architecture**
 
-                              ┌─────────────────────┐
+                     ┌─────────────────────┐
                      │      User           │
                      │  Coding Question    │
                      └──────────┬──────────┘
@@ -65,6 +65,7 @@ Git	Version control
 GitHub	Source-code hosting
 
 **📁 Project Structure**
+
 CodeGuru-Ollama-Gradio/
 │
 ├── app.py
@@ -72,7 +73,7 @@ CodeGuru-Ollama-Gradio/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-app.py
+
 
 Main Python application responsible for:
 
